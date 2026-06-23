@@ -1,2 +1,2 @@
 # BrainFlip
-Brain-Flip: A Quiz Game p
+Brain-Flip: A Quiz Game
